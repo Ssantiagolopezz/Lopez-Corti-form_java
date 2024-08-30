@@ -1,0 +1,54 @@
+.contenedor{
+    display: block;
+    justify-content: center;
+    text-align: center;
+    width: 350px;
+    height: 277px;
+    border: 2px solid rgb(251, 255, 0) ;
+    margin-left: 37%;
+    margin-top: 5%;
+}
+
+.contenedor2{
+    display: block;
+    justify-content: center;
+    text-align: center;
+    width: 350px;
+    height: 277px;
+    border: 2px solid rgb(116, 116, 116) ;
+    margin-left:10%;
+    margin-top: 5%;
+}
+
+.contenedor3{
+    display: block;
+    justify-content: center;
+    text-align: center;
+    width: 350px;
+    height: 277px;
+    border: 2px solid rgb(255, 72, 0) ;
+    margin-left: 64%;
+    margin-top: -21%;
+}
+
+
+
+
+.contenedor4{
+    text-align: center;
+    width: 350px;
+    height: 277px;
+    border: 5px solid rgb(0, 0, 0) ;
+    margin-left: 37%;
+
+}
+
+form{
+    margin: 10px;
+}
+label{
+    margin: 10px;
+}
+input{
+    margin: 10px;
+}

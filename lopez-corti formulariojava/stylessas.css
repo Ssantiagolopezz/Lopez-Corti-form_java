@@ -1,0 +1,122 @@
+header{
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    text-align: center;
+    border: 2px solid black
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(250, 250, 7);
+    border: 2px solid black 
+}  
+
+.footer{
+    display: flex;
+    background-color: rgb(240, 134, 5);
+}
+
+.recuadro1{
+    display: block;
+    justify-content: center;
+    text-align: center;
+    width: 350px;
+    height: 450px;
+    border: 2px solid black ;
+    margin-left: 37%;
+    margin-top: 5%;
+}
+
+.recuadro2{
+    background-color: rgb(252, 252, 252);
+    display: block;
+    justify-content: center;
+    text-align: center;
+    width: 350px;
+    height: 450px;
+    border: 2px solid black ;
+    margin-left: 37%;
+    margin-top: 5%;
+}
+
+.recuadro3{
+    background-color: rgb(252, 252, 252);
+    display: block;
+    justify-content: center;
+    text-align: center;
+    width: 350px;
+    height: 450px;
+    border: 2px solid black ;
+    margin-left: 37%;
+    margin-top: 5%;
+}
+
+.recuadro4{
+    background-color: rgb(252, 252, 252);
+    display: block;
+    justify-content: center;
+    text-align: center;
+    width: 350px;
+    height: 450px;
+    border: 2px solid black ;
+    margin-left: 37%;
+    margin-top: 5%;
+}
+
+.redondel{
+    position: relative;
+    margin-top: 10%;
+    left: -150%;
+    height: 55%;
+    width: 50%;
+    border-radius: 50%;
+    border: 5px solid black;
+    background-color: white;
+    }
+
+.div{
+    width: 350px;
+    height: 250px;
+    border: 2px solid black;
+    background-color: white;
+}
+
+.div2{
+    width: 350px;
+    height: 200px;
+    border: 2px solid black;
+    background-color: white;
+}
+
+.imagen1{
+    width: 338px;
+}
+.imagen2{
+    margin-top: 8px;
+    width: 350px;
+}
+.imagen3{
+    margin-top: 25px;
+    width: 350px;
+}
+.imagen4{
+    width: 250px;
+}
+
+.imagenf{
+    width: 187px;
+}
+
+.cn{
+    margin-left: 2%;
+}
+
+.ad{
+    margin-left: 25%;
+}
+
+.in{
+    margin-left: 25%; 
+}
